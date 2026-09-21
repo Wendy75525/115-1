@@ -11,7 +11,7 @@ This is a `book`.
 print("This is a book.")
 ```
  
-![NKUST](nkust.png "NKUST")_
+![NKUST](NKSUT.png "NKUST")_
 
 [高科大](https://www.nkust.edu.tw/)
 
